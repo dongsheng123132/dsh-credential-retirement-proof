@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-credential-retirement-proof
+      name: dsh-credential-retirement-proof
+      config:
+        workspaceRoot: .
