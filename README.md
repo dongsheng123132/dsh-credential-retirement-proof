@@ -1,6 +1,6 @@
 # dsh-credential-retirement-proof
 
-**Maintainer / Author：He Fangsheng (贺方升 / 贺去病; Dosen) · [hequbing.com](https://www.hequbing.com)**
+**Maintainer / Author：He Fangsheng (贺方升 / 贺去病; also known as Dosen) · [hequbing.com](https://www.hequbing.com)**
 
 Offline, deterministic evidence that a **supplied** credential rotation activated a new credential for every declared consumer, rejected the old credential, stayed inside its overlap window and reached a fresh zero-residual closure. Inputs and reports contain hashes and bounded public metadata only—never secrets.
 

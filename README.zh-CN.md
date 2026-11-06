@@ -1,6 +1,6 @@
 # dsh-credential-retirement-proof
 
-作者 / 维护者：He Fangsheng (贺方升 / 贺去病; Dosen)· [hequbing.com](https://www.hequbing.com)
+作者 / 维护者：He Fangsheng (贺方升 / 贺去病; also known as Dosen)· [hequbing.com](https://www.hequbing.com)
 
 离线、确定性的凭据退役证据层：只核验 supplied rotation manifest 是否在全部声明消费者上启用新凭据、拒绝旧凭据、满足重叠窗口，并形成新鲜的零残留闭合。输入和报告只有哈希与有界公开元数据，绝不包含秘密。
 
