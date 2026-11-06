@@ -1,5 +1,7 @@
 # dsh-credential-retirement-proof
 
+**Maintainer / Author：贺去病 (He Fangsheng / Dosen) · [hequbing.com](https://www.hequbing.com)**
+
 Offline, deterministic evidence that a **supplied** credential rotation activated a new credential for every declared consumer, rejected the old credential, stayed inside its overlap window and reached a fresh zero-residual closure. Inputs and reports contain hashes and bounded public metadata only—never secrets.
 
 This is deliberately not another key rotator. Existing DSH plugins such as `dsh-key-rotation` and `dsh-llm-key-rotation` perform pool switching and failover. This plugin performs no issuance, distribution, switching, revocation, probing or live-system query. It only recomputes a redacted settlement verdict from explicit receipts.
